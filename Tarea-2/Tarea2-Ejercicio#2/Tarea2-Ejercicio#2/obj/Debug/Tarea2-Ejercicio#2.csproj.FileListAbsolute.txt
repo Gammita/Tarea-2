@@ -1,0 +1,7 @@
+D:\Universidad\V Cuatrimestre\Programación II\Proyectos Visual Studio\Tarea2-Ejercicio#2\Tarea2-Ejercicio#2\bin\Debug\Tarea2-Ejercicio#2.exe.config
+D:\Universidad\V Cuatrimestre\Programación II\Proyectos Visual Studio\Tarea2-Ejercicio#2\Tarea2-Ejercicio#2\bin\Debug\Tarea2-Ejercicio#2.exe
+D:\Universidad\V Cuatrimestre\Programación II\Proyectos Visual Studio\Tarea2-Ejercicio#2\Tarea2-Ejercicio#2\bin\Debug\Tarea2-Ejercicio#2.pdb
+D:\Universidad\V Cuatrimestre\Programación II\Proyectos Visual Studio\Tarea2-Ejercicio#2\Tarea2-Ejercicio#2\obj\Debug\Tarea2-Ejercicio#2.csproj.AssemblyReference.cache
+D:\Universidad\V Cuatrimestre\Programación II\Proyectos Visual Studio\Tarea2-Ejercicio#2\Tarea2-Ejercicio#2\obj\Debug\Tarea2-Ejercicio#2.csproj.CoreCompileInputs.cache
+D:\Universidad\V Cuatrimestre\Programación II\Proyectos Visual Studio\Tarea2-Ejercicio#2\Tarea2-Ejercicio#2\obj\Debug\Tarea2-Ejercicio#2.exe
+D:\Universidad\V Cuatrimestre\Programación II\Proyectos Visual Studio\Tarea2-Ejercicio#2\Tarea2-Ejercicio#2\obj\Debug\Tarea2-Ejercicio#2.pdb

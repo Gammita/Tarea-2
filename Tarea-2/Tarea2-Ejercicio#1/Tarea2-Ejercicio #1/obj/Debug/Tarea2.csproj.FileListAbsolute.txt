@@ -1,0 +1,7 @@
+D:\Universidad\V Cuatrimestre\Programación II\Proyectos Visual Studio\Tarea2\Tarea2\bin\Debug\Tarea2.exe.config
+D:\Universidad\V Cuatrimestre\Programación II\Proyectos Visual Studio\Tarea2\Tarea2\bin\Debug\Tarea2.exe
+D:\Universidad\V Cuatrimestre\Programación II\Proyectos Visual Studio\Tarea2\Tarea2\bin\Debug\Tarea2.pdb
+D:\Universidad\V Cuatrimestre\Programación II\Proyectos Visual Studio\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.AssemblyReference.cache
+D:\Universidad\V Cuatrimestre\Programación II\Proyectos Visual Studio\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.CoreCompileInputs.cache
+D:\Universidad\V Cuatrimestre\Programación II\Proyectos Visual Studio\Tarea2\Tarea2\obj\Debug\Tarea2.exe
+D:\Universidad\V Cuatrimestre\Programación II\Proyectos Visual Studio\Tarea2\Tarea2\obj\Debug\Tarea2.pdb
